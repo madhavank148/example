@@ -8,6 +8,7 @@ public class BootSqlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BootSqlApplication.class, args);
+		System.out.println();
 	}
 
 }
